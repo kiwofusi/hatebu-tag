@@ -1,0 +1,40 @@
+body {
+  margin-right: 15%;
+}
+
+h1 a {
+  text-decoration: none;
+  color: #000000;
+}
+h1 img {
+  border: 0;
+}
+
+ul#tag_list {
+  line-height: 150%;
+  margin-left: 5%;
+}
+
+ul#tag_list li {
+  display: inline;
+  white-space: nowrap;
+  float: left;
+}
+ul#tag_list li.tag {
+  margin-right: 2em;
+}
+
+li.tag a {
+  text-decoration: none;
+}
+li.tag a:hover {
+  background-color: #ffff99;
+}
+
+br {
+  clear: both;
+}
+address {
+  font-style: normal;
+  margin-top: 4em;
+}
